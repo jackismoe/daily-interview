@@ -9,7 +9,7 @@
     sumFinder([6,4,3,2,1,7], 9) = true
     sumFinder([6,4,3,2,1,7], 2) = false
 5- swap two numbers without using a temporary variable
-antoniotari11@gmail.com
+
 
 
 https://www.w3schools.com/jsref/jsref_map.asp
